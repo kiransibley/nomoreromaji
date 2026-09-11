@@ -2,7 +2,7 @@
 
 ## The Tool to Learn Japanese Better
 
-### [Access the website](https://kirandoeswebdev.github.io/nomoreromaji)
+### [Access the website](https://kiransibley.github.io/nomoreromaji)
 
 ---
 
